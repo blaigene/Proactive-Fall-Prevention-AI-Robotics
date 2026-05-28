@@ -79,5 +79,5 @@ The AI backend (Python) communicates with the Temi robot via a **REST API** and 
 - [ ] Full ROS2 navigation feedback integration
 
 ---
-**Developed by:** Blai Gené Mora — AI Engineering Intern at **Group Saltó** (Innovation Dept.)  
+**Developed by:** Blai Gené Mora: AI Engineering Intern at **Group Saltó** (Innovation Dept.)  
 Computer Engineering Student at **Escola Politècnica Superior (UdL)**
