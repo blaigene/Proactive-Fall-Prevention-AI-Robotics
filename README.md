@@ -27,13 +27,13 @@ The system is orchestrated by **CrewAI** using a Manager pattern: agents are onl
 
 ## 👁️ Computer Vision Pipeline
 
-### Instance Segmentation — YOLOv8-Seg
+### Instance Segmentation: YOLOv8-Seg
 Real-time detection and pixel-level segmentation of domestic obstacles. Handles truncated objects at frame boundaries via the Geometric Specialist for complete hazard assessment.
 
-### 3D Topology & Hazard Scoring — SegFormer
+### 3D Topology & Hazard Scoring: SegFormer
 SegFormer computes depth-aware floor topology to derive a **Hazard Score** per detected object. Transformer-based architecture provides strong robustness against indoor reflections and parquet glare — a critical advantage over CNN baselines in domestic settings.
 
-### Visual Language Reasoning — Moondream2
+### Visual Language Reasoning: Moondream2
 Activated only on high Hazard Score triggers. Uses **contextual cropping** (focused, padded ROI rather than full-frame) to maximise semantic quality within edge memory constraints.
 
 ### Temporal Stability
