@@ -1,7 +1,7 @@
 # 🤖 Temi Robot: Multi-Agent Orchestration with CrewAI for Proactive Fall Prevention
 
 > [!IMPORTANT]
-> **Status: Work in Progress (WIP)** — Developed as part of my Bachelor's Thesis (TFG) at the Innovation Department of **Group Saltó**. Source code and datasets are private due to confidentiality agreements.
+> **Status: Work in Progress (WIP)**: Developed as part of my Bachelor's Thesis (TFG) at the Innovation Department of **Group Saltó**. Source code and datasets are private due to confidentiality agreements.
 
 ---
 
